@@ -37,8 +37,11 @@ app.get("/err",(req,res)=>{
    throw new Error("Server not responding...")
 })
 app.get("/err/:id",(req,res)=>{  
-    // console.log( res );
+     console.log( res );
    throw new Error("Server not responding...")
+})
+app.get("/",(req,res)=>{  
+   res.send("<h1>welcome to coding journey</h1>")
 })
 app.use((err,req,res,next)=>{
     res.status(500).send(err.message)
