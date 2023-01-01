@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-01-01T13:12:58.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="z41utvyM-M66Iaduy_KF" type="github"><diagram id="HL6T4DVTtmUE3_hKK5GB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-01T13:30:20.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="xTIB30R_4WEVzIjYRU1F" type="github">
+  <diagram id="8zmDJZXFAAUlITHwWmXJ" name="Page-1">
+    <mxGraphModel dx="2340" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jx1tPTm3bfICqW7eeZC9-1" value="System Design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jx1tPTm3bfICqW7eeZC9-2" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-1190" y="370" as="sourcePoint" />
+            <mxPoint x="-1090" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jx1tPTm3bfICqW7eeZC9-5" value="&lt;h1&gt;Requirements&lt;/h1&gt;&lt;div&gt;Functional&lt;/div&gt;&lt;div&gt;&amp;gt; Product page&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;gt; Filter Section&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;gt; Search Section&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;nbsp; &amp;nbsp;Cart page&lt;/div&gt;&lt;div&gt;&amp;gt;profile page&lt;/div&gt;&lt;div&gt;&amp;gt;Payment Integaration&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Non-functional&lt;/div&gt;&lt;div&gt;&amp;gt;Responsive&lt;/div&gt;&lt;div&gt;&amp;gt;Seo&lt;/div&gt;&lt;div&gt;&amp;gt;Cashing static assests&lt;/div&gt;&lt;div&gt;&amp;gt;PWA(prograssive web app)&lt;/div&gt;&lt;div&gt;&amp;gt;Secureity&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;gt;Authentication&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;gt; Authorization&lt;/div&gt;&lt;div&gt;&amp;gt; Optimization&lt;/div&gt;&lt;div&gt;&amp;gt;SSR CSR&lt;/div&gt;&lt;div&gt;&amp;gt;Testing&lt;/div&gt;&lt;div&gt;&amp;gt;Logging and Monitoring&lt;/div&gt;&lt;div&gt;&amp;gt;Accessibility&lt;/div&gt;&lt;div&gt;&amp;gt;Internationalization&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="70" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="jx1tPTm3bfICqW7eeZC9-7" value="Scoping&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jx1tPTm3bfICqW7eeZC9-8" value="&lt;ul&gt;&lt;li&gt;Product Listing&lt;/li&gt;&lt;li&gt;Profile page&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-40" width="170" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="jx1tPTm3bfICqW7eeZC9-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Non-Functional Requirements&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
